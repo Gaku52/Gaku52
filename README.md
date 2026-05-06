@@ -59,9 +59,8 @@ Building production SaaS with modern web technologies and AI integration.
 
 <div align="center">
 
-![Gaku's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gaku52&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaku52&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Gaku52&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&cache_seconds=86400" height="160" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaku52&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160" alt="langs" />
 
 </div>
 
