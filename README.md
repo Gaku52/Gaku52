@@ -63,6 +63,12 @@ Building production SaaS with modern web technologies and AI integration.
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gaku52&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gaku52/Gaku52/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gaku52/Gaku52/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Gaku52/Gaku52/output/github-contribution-grid-snake.svg" />
+</picture>
+
 </div>
 
 ---
