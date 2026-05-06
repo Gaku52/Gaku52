@@ -59,8 +59,9 @@ Building production SaaS with modern web technologies and AI integration.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gaku52&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&cache_seconds=86400" height="160" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaku52&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160" alt="langs" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gaku52&theme=tokyonight&no-frame=true&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gaku52&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
